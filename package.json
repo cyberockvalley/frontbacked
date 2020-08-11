@@ -1,0 +1,22 @@
+{
+  "name": "frontbacked",
+  "version": "1.0.0",
+  "description": "Front Backed is an open source integrated frontend and backend library that let developers focus on frontend, by writing abstract markup language just like html. The logic, data, authentication, and permissions are inferred and handled using the html-like code written.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberockvalley/frontbacked.git"
+  },
+  "keywords": [
+    "frontbacked"
+  ],
+  "author": "Feyijinmi Adegoke jinmi@cyberockvalley.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberockvalley/frontbacked/issues"
+  },
+  "homepage": "https://github.com/cyberockvalley/frontbacked#readme"
+}
