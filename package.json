@@ -1,6 +1,6 @@
 {
   "name": "frontbacked",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Front Backed is an open source integrated frontend and backend library that let developers focus on frontend, by writing abstract markup language just like html. The logic, data, authentication, and permissions are inferred and handled using the html-like code written.",
   "main": "index.js",
   "scripts": {
