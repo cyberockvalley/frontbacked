@@ -7,6 +7,10 @@
   Front Backed is an open source integrated frontend and backend library that let developers focus on frontend, by writing abstract markup language just like html. The logic, data, authentication, and permissions are inferred and handled using the html-like code written.
 </p>
 
+<p align="center">
+  Please note that this library is not launched yet, but it will before the 1st of october 2020: <b>So don't download it yet.</b>
+</p>
+
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=parseplatform"><img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/parseplatform?style=social&label=Follow"></a>
